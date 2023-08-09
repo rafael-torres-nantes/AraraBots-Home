@@ -1,0 +1,2 @@
+conda activate arara@home
+conda install -c conda-forge opencv
